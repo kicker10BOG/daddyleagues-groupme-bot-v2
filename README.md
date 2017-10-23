@@ -83,7 +83,7 @@ Notes:
 	* rookie: search only rookies (r or rookie)
 	* injured: search only injured players (i or inj or injured)
 	* not specifying any options will return the top players in the league
-* tws {team} {week}: Returns the score for the specified tean and week
+* tws {team} {week}: Returns the score for the specified team and week
   * team: can be abbreviation or team name (ten or titans)
   * week: 1-17, wc, dr, cc, sb
 * sync {week}: Gets the unplayed games for a specified week
