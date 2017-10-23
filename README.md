@@ -4,6 +4,8 @@
 
 [Donate on PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LZV3AVMN5EK4Q)
 
+[Donate on Venmo](https://venmo.com/Jason-L-Bogle)
+
 This is an unofficial Groupme bot that you can use 
 in conjuction with a Madden league on Daddyleagues. 
 
@@ -51,7 +53,7 @@ as the bots.
   * twitch attributes
     * put the twitch user name for each team's owner 
   * magic8ball: all the 8ball answers
-  * users: all of the users the bot knows about - let th bot handle this
+  * users: all of the users the bot knows about - let the bot handle this
   * groupd: groups users can be put it
 2. Upload the files to a server.
 3. Create a bot for the main groupme at https://dev.groupme.com/bots
