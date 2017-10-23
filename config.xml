@@ -1,0 +1,137 @@
+<?xml version="1.0" standalone="yes"?>
+<all>
+	<config>
+		<baseurl>http://daddyleagues.com/</baseurl>
+		<league>TSL</league>
+		<cmdprefix>!</cmdprefix>
+		<pslimit>5</pslimit>
+		<charlimit>1000</charlimit>
+	</config>
+	<info>
+		<league>The Sim League (TSL)</league>
+		<commish>TheWitt</commish>
+		<rules>https://docs.google.com/document/d/1yghAW1WoDFSyUdkwGFeDsANn8wZsMrBoNK_kfaIvRYU/edit</rules>
+		<draft>9/2 6pm Eastern</draft>
+		<botdev>https://github.com/kicker10BOG/daddyleagues-groupme-bot-v2</botdev>
+		<web>http://daddyleagues.com/tsl</web>
+		<advance>9/6</advance>
+		<owners>you can put a link here</owners>
+		<blog>http://daddyleagues.com/tsl/blog</blog>
+		<sportbook>http://daddyleagues.com/tsl/sportbook</sportbook>
+		<forum>http://daddyleagues.com/tsl/forum</forum>
+	</info>
+	<img>
+		<scalp>https://symonsez.files.wordpress.com/2009/08/scalp_edited.jpg</scalp>
+		<sleep>https://i.groupme.com/480x480.jpeg.7e759c64d3fb49d9b7ffe78c91003472.large</sleep>
+		<ring>http://vignette3.wikia.nocookie.net/lotr/images/9/9b/TheOneRing.jpg</ring>
+		<cheese>https://media0.giphy.com/media/WMPQ6NTg9X8Zy/giphy.gif</cheese>
+		<obj>https://media0.giphy.com/media/lBp3uYwSgqVry/giphy.gif</obj>
+		<salt>https://media3.giphy.com/media/14c4yIVAVWZgnm/200_s.gif</salt>
+		<duck>https://i.groupme.com/480x362.gif.f072cf2e79b14e8eb73125b47c82ba5e</duck>
+		<harambe>https://media1.giphy.com/media/g54jTt01UZUxG/giphy.gif</harambe>
+		<popcorn>https://media.tenor.co/images/54451401d52c0dd2fe9ee5752857d53c/raw</popcorn>
+		<kermit>https://media4.giphy.com/media/3o85xGocUH8RYoDKKs/giphy.gif</kermit>
+		<toasty>http://vignette2.wikia.nocookie.net/mkwikia/images/e/ed/Toasty_mk3.JPG/revision/latest?cb=20110310085358</toasty>
+		<crying>https://i.groupme.com/960x720.png.2997f7352ee7411a9c2292e2043f667b.large</crying>
+		<saltsw>https://i.groupme.com/400x400.jpeg.dd51f160988140a9827ff71df95a9bab.large</saltsw>
+		<scum>https://cdn.meme.am/cache/instances/folder241/500x/61172241.jpg</scum>
+		<guidelines>https://i.groupme.com/1480x833.jpeg.853927b9253c478a986264340c8dfc0d.large</guidelines>
+		<no>https://cdn.meme.am/cache/instances/folder578/500x/65667578.jpg</no>
+		<language>https://m.popkey.co/ad5acb/l3MjL.gif</language>
+		<trump>https://media.giphy.com/media/nSZtWt4qavWlq/giphy.gif</trump>
+		<fallenangel>https://i.groupme.com/1280x768.jpeg.93a3937b73874f23ae2941210393b156.large</fallenangel>
+	</img>
+	<youtube>
+	</youtube>
+	<custom>
+		<thankyou>
+			<text>You're welcome! I appreciate your kindness.</text>
+			<groups>all</groups>
+		</thankyou>
+		<tiebreakers>
+			<text>http://www.nfl.com/standings/tiebreakingprocedures</text>
+			<groups>all</groups>
+		</tiebreakers>
+		<mosquito>
+			<text>You don&#x2019;t have to spend a lot of time going over and kind of circumcising the mosquito.</text>
+			<groups>all</groups>
+		</mosquito>
+		<standings>
+			<text>http://daddyleagues.com/tsl/standings</text>
+			<groups>all</groups>
+		</standings>
+		<hello>
+			<text>hello world!</text>
+			<groups>all</groups>
+		</hello>
+		<bow>
+			<text>You have been ordered to bow!</text>
+			<groups>admin</groups>
+		</bow>
+		<remote>
+			<text>https://remoteplay.dl.playstation.net/remoteplay/lang/en/index.html</text>
+			<groups>all</groups>
+		</remote>
+	</custom>
+	<rings></rings>
+	<ghostrings>
+	</ghostrings>
+	<alias>
+		<contact>owners</contact>
+		<advance>adv</advance>
+		<sim>advance</sim>
+		<stream>twitch</stream>
+		<adv>advance</adv>
+		<salty>salt</salty>
+		<thanks>thankyou</thanks>
+		<thank>thankyou</thank>
+		<noneofmybusiness>kermit</noneofmybusiness>
+		<jerryjones>mosquito</jerryjones>
+		<simscore>simscores</simscore>
+		<contacts>owners</contacts>
+		<contactlist>owners</contactlist>
+		<inj>ps inj</inj>
+		<registration>register</registration>
+		<reg>register</reg>
+		<donate>warchest</donate>
+		<norules>rules</norules>
+		<site>web</site>
+		<sportsbook>sportbook</sportsbook>
+		<owner>us team</owner>
+		<blogs>blog</blogs>
+	</alias>
+	<simscores>
+	</simscores>
+	<magic8ball>
+		<reply>It is certain</reply>
+		<reply>It is decidedly so</reply>
+		<reply>Without a doubt</reply>
+		<reply>Yes, definitely</reply>
+		<reply>You may rely on it</reply>
+		<reply>As I see it, yes</reply>
+		<reply>Most likely</reply>
+		<reply>Outlook good</reply>
+		<reply>Yes</reply>
+		<reply>Signs point to yes</reply>
+		<reply>Reply hazy. Try again</reply>
+		<reply>Ask again later</reply>
+		<reply>Better not tell you</reply>
+		<reply>Cannot predict now</reply>
+		<reply>Concentrate and ask again</reply>
+		<reply>Don't count on it</reply>
+		<reply>My reply is no</reply>
+		<reply>My sources say no</reply>
+		<reply>Outlook not so good</reply>
+		<reply>Very doubtful</reply>
+	</magic8ball>
+	<users>	
+	</users>
+	<groups>
+		<admin>
+			<description>a group with superpowers</description>
+		</admin>
+		<members>
+			<description>a group of league members</description>
+		</members>
+	</groups>
+</all>
